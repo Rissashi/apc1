@@ -1,4 +1,4 @@
-# apc1 - Algoritmos e Programação de Computadores 1
+# apc1 - Algoritmos e Programação de Computadores I
 
 Repositório criado para guardar os códigos da disciplina!
 
